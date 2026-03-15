@@ -17,16 +17,6 @@ The main goals of this project are:
 
 ---
 
-## Repository Structure
-├── docs/ → Final project report and presentation  
-├── theory/ → Background theory and device physics  
-├── simulations/ → Device modeling and simulation work  
-├── results/ → Experimental results and analysis  
-├── references/ → Research papers and literature  
-└── images/ → Figures used in documentation  
-
----
-
 ## Wide Band Gap Semiconductors
 
 Wide band gap (WBG) materials have a larger band gap than conventional silicon, typically greater than **2 eV**. These materials offer several advantages:
